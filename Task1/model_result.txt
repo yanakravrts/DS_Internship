@@ -1,0 +1,16 @@
+Token		Label
+------------------------------
+[CLS]          : O
+mount          : B-MOUNTAIN
+everest        : I-MOUNTAIN
+is             : O
+earth          : O
+'              : O
+s              : O
+highest        : O
+mountain       : O
+above          : O
+sea            : O
+level          : O
+.              : O
+[SEP]          : O
