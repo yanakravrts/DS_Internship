@@ -1,0 +1,5 @@
+pandas==2.2.3
+transformers==4.45.2
+torch==2.5.0
+jupyter==1.1.1
+transformers[torch] accelerate==1.0.1
