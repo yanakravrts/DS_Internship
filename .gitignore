@@ -2,6 +2,7 @@
 
 */model_save/
 */results/
+*/S2A_MSIL1C_20160618T082602_N0204_R021_T36UYA_20160618T083357.SAFE/
 
 __pycache__/
 *.pyc
@@ -15,6 +16,7 @@ __pycache__/
 
 .DS_Store
 Thumbs.db
+deforestation_labels.geojson
 .env
 *.log
 
